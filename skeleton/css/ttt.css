@@ -1,0 +1,27 @@
+.unchecked {
+  background-color: gray;
+  width: 99px;
+  height: 99px;
+  float: left;
+  border-width: 1px;
+  border-style: solid;
+  list-style-type: none;
+}
+
+.unchecked:hover {
+  background-color: yellow;
+}
+
+.checked {
+  background-color: white;
+  width: 99px;
+  height: 99px;
+  float: left;
+  border-width: 1px;
+  border-style: solid;
+  text-align: center;
+  text-decoration-color: red;
+  font-size: 30px;
+  list-style-type: none;
+  line-height: 99px;
+}
